@@ -2,7 +2,7 @@
 
 ## 📋 Proje Açıklaması
 
-Bu proje, Scoutium veri seti kullanılarak futbolcuların potansiyelini sınıflandıran kapsamlı bir makine öğrenmesi çözümüdür. Tüm adımlar tek bir dosyada (`talent_hunt_class.py`) birleştirilmiş ve overfitting sorunu çözülmüştür.
+Bu proje, Scoutium veri seti kullanılarak futbolcuların potansiyelini sınıflandıran kapsamlı bir makine öğrenmesi çözümüdür. Tüm adımlar tek bir dosyada (`talent_hunt_complete_solution.py`) birleştirilmiş ve overfitting sorunu çözülmüştür.
 
 ## 🎯 Hedef
 
@@ -80,7 +80,7 @@ Scout'lar tarafından izlenen futbolcuların özelliklerine verilen puanlara gö
 talent_hunt_classification/
 ├── README.md                           # Bu dosya
 ├── MODEL_KULLANIMI.md                  # 🤖 Model kullanım kılavuzu
-├── talent_hunt_class.py                # 🚀 Ana çözüm scripti
+├── talent_hunt_complete_solution.py    # 🚀 Ana çözüm scripti
 ├── data/                               # 📊 Veri dosyaları
 │   ├── scoutium_attributes.csv
 │   └── scoutium_potential_labels.csv
@@ -99,7 +99,7 @@ talent_hunt_classification/
 ### Hızlı Başlangıç
 ```bash
 # Ana çözümü çalıştır
-python talent_hunt_class.py
+python talent_hunt_complete_solution.py
 ```
 
 ### Sonuçları İnceleme
